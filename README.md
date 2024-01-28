@@ -1,14 +1,15 @@
-# DECODE-assignment-05
-## cricket_team_players
+# cricket_team_players
+## DECODE-assignment-05
 
-This (repository) is a flutter project containing specifically Dart code (solution) for the *Assignment No. 05* (see details below) given as part of the overall assessment during the *DECODE Flutter Training Program.
+This (repository) is a Flutter Project containing specifically Dart Code (solution) for the Assignment No. 05 (see details below) given as part of the overall assessment during the *DECODE App Development Training Program.
 
-*DECODE: Digital Empowerment through Commerce Opportunities & Digital Education
+*Digital Empowerment through Commerce Opportunities & Digital Education
 
-# Requirements
+## Requirements
 
-(1) Create a Flutter app showing all the players of the Pakistan Cricket Team using ListView along with other widgets such as Card etc for displaying each player beautifully<br>
-(2) By clicking on a specific player Card, the details of that player should be displayed onto the next screen. (Transferring data between screens)
+1. Create a Flutter app showing all the players of the Pakistan Cricket Team using ListView along with other widgets such as Card etc for displaying each player beautifully.<br>
+
+2. By clicking on a specific player Card, the details of that player should be displayed onto the next screen. (Transferring data between screens)
 
 ## Getting Started
 
