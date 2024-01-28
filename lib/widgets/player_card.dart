@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:cricket_team_players/screens/player_details_screen.dart';
 
 class PlayerCard extends StatelessWidget {
   const PlayerCard({
@@ -24,7 +25,13 @@ class PlayerCard extends StatelessWidget {
         title: Text(name),
         subtitle: Text(age),
         trailing: Text(role, style: const TextStyle(fontSize: 14)),
-        onTap: () {},
+        onTap: () {
+          Navigator.of(context).push(
+            MaterialPageRoute(builder: ((context) {
+              return PlayerDetailsScreen(name, age, role, image);
+            })),
+          );
+        },
       ),
     );
   }
