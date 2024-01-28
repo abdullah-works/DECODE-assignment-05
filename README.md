@@ -7,7 +7,7 @@ This (repository) is a flutter project containing specifically Dart code (soluti
 
 # Requirements
 
-(1) Create a Flutter app showing all the players of the Pakistan Cricket Team using ListView along with other widgets such as Card etc for displaying each player beautifully.
+(1) Create a Flutter app showing all the players of the Pakistan Cricket Team using ListView along with other widgets such as Card etc for displaying each player beautifully<br>
 (2) By clicking on a specific player Card, the details of that player should be displayed onto the next screen. (Transferring data between screens)
 
 ## Getting Started
